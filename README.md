@@ -1,6 +1,8 @@
 # This is currently being developed, please be patient.
 ![Logo (60)](https://github.com/DTACat/Just-Effects-And-Decorations/assets/141873540/a39d86e0-e7c9-4c30-9ac6-09e6009b8814)
 
+### This is a remake of [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme) but more advanced.
+
 ### Basicly it's [Fake Profile Themes](https://github.com/Vendicated/Vencord/tree/main/src/plugins/fakeProfileThemes) if it was for Profile Cosmetics, and was only developed in css.
 
 ### This does work with Custom Server Profile if you want different cosmetics for your profile on that server.
