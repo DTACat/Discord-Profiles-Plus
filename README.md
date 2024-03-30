@@ -5,7 +5,7 @@
 
 ### Basicly it's [Fake Profile Themes](https://github.com/Vendicated/Vencord/tree/main/src/plugins/fakeProfileThemes) if it was for Profile Cosmetics, and was only developed in css.
 
-### Due to the limitations of css, this theme requires at least Discord Nitro Basic to work.
+### Due to the limitations of css, you requires at least Discord Nitro Basic to have your own Cosmetics.
 
 # How To Use
 
