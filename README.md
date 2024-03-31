@@ -11,7 +11,7 @@
 
 ## Join on of the Discord servers below:
 
-### (Server Invites coming soon)
+### [Server 1](https://discord.gg/zdhpfZXwME)
 
 ## Put an emoji in your About Me.
 
