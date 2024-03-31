@@ -1,57 +1,353 @@
+/*animne v2*/
+
+/*Anime V2 Deco*/
+
+/*Cat Ears*/
 .animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223525013206859776.webp"]),
-.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223525013206859776.webp"]) {
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223525013206859776.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223525013206859776.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223525013206859776.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223525013206859776.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223525013206859776.webp"]) {
+
 	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_c3cffc19e9784f7d0b005eecdf1b566e.png?size=240&passthrough=true");
 }
 
+.animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223525013206859776.webp"]),
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223525013206859776.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223525013206859776.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223525013206859776.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223525013206859776.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223525013206859776.webp"]) img[class^="avatarDecoration"],
+:not([class*="shopCard"],[class*="avatarContainer"],[class*="avatarPreviewContainer"]) > * > *[class^="avatarDecoration"] img {
+    
+	object-position: 9999px;
+	background-image: var(--fake-avatar-decoration);
+	background-size: cover;
+}
+/* ^ Cat Ears*/
+
+/*Ki Energy*/
 .animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223536064711495792.webp"]),
-.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223536064711495792.webp"]) {
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223536064711495792.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223536064711495792.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223536064711495792.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223536064711495792.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223536064711495792.webp"]) {
+
 	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_f3af281c65cf0cf590e9e1f59e9c6cf6.png?size=240&passthrough=true");
 }
 
+.animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223536064711495792.webp"]),
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223536064711495792.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223536064711495792.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223536064711495792.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223536064711495792.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223536064711495792.webp"]) img[class^="avatarDecoration"],
+:not([class*="shopCard"],[class*="avatarContainer"],[class*="avatarPreviewContainer"]) > * > *[class^="avatarDecoration"] img {
+    
+	object-position: 9999px;
+	background-image: var(--fake-avatar-decoration);
+	background-size: cover;
+}
+/* ^ Ki Energy*/
+
+/*Heartbloom*/
 .animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223549644508758026.webp"]),
-.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223549644508758026.webp"]) {
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223549644508758026.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223549644508758026.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223549644508758026.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223549644508758026.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223549644508758026.webp"]) {
+
 	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_3e1fc3c7ee2e34e8176f4737427e8f4f.png?size=240&passthrough=true");
 }
 
+.animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223549644508758026.webp"]),
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223549644508758026.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223549644508758026.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223549644508758026.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223549644508758026.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223549644508758026.webp"]) img[class^="avatarDecoration"],
+:not([class*="shopCard"],[class*="avatarContainer"],[class*="avatarPreviewContainer"]) > * > *[class^="avatarDecoration"] img {
+    
+	object-position: 9999px;
+	background-image: var(--fake-avatar-decoration);
+	background-size: cover;
+}
+/* ^ Heartbloom*/
+
+/*Dismay*/
 .animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223734257680121987.webp"]),
-.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223734257680121987.webp"]) {
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223734257680121987.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223734257680121987.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223734257680121987.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223734257680121987.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223734257680121987.webp"]) {
+
 	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_51d3bb502109eec26c76386ec980bc8b.png?size=240&passthrough=true");
 }
 
+.animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223734257680121987.webp"]),
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223734257680121987.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223734257680121987.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223734257680121987.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223734257680121987.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223734257680121987.webp"]) img[class^="avatarDecoration"],
+:not([class*="shopCard"],[class*="avatarContainer"],[class*="avatarPreviewContainer"]) > * > *[class^="avatarDecoration"] img {
+    
+	object-position: 9999px;
+	background-image: var(--fake-avatar-decoration);
+	background-size: cover;
+}
+/* ^ Dismay*/
+
+/*Rage*/
 .animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223745040149643375.webp"]),
-.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223745040149643375.webp"]) {
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223745040149643375.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223745040149643375.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223745040149643375.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223745040149643375.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223745040149643375.webp"]) {
+
 	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_a0db4314b8cc271c8f472357aa895005.png?size=240&passthrough=true");
 }
 
+.animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223745040149643375.webp"]),
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223745040149643375.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223745040149643375.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223745040149643375.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223745040149643375.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223745040149643375.webp"]) img[class^="avatarDecoration"],
+:not([class*="shopCard"],[class*="avatarContainer"],[class*="avatarPreviewContainer"]) > * > *[class^="avatarDecoration"] img {
+    
+	object-position: 9999px;
+	background-image: var(--fake-avatar-decoration);
+	background-size: cover;
+}
+/* ^ Rage*/
+
+/*Rage*/
 .animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223748094743678976.webp"]),
-.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223748094743678976.webp"]) {
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223748094743678976.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223748094743678976.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223748094743678976.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223748094743678976.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223748094743678976.webp"]) {
+
 	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_4cc97277177b166fd7d4af3bdb370815.png?size=240&passthrough=true");
 }
 
+.animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223748094743678976.webp"]),
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223748094743678976.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223748094743678976.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223748094743678976.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223748094743678976.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223748094743678976.webp"]) img[class^="avatarDecoration"],
+:not([class*="shopCard"],[class*="avatarContainer"],[class*="avatarPreviewContainer"]) > * > *[class^="avatarDecoration"] img {
+    
+	object-position: 9999px;
+	background-image: var(--fake-avatar-decoration);
+	background-size: cover;
+}
+/* ^ Rage*/
 
+/* ^ Anime V2 Deco*/
+
+/*Anime V2 Effects*/
+
+/*Dreamy*/
+
+/*Dreamy Intro*/
 .animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223751107239481435.webp"]),
-.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223751107239481435.webp"]) {
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223751107239481435.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223751107239481435.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223751107239481435.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223751107239481435.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223751107239481435.webp"]) {
+    
 	--fake-profile-effect: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/dreamy/intro.png");
 }
+.animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223751107239481435.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223751107239481435.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223751107239481435.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223751107239481435.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223751107239481435.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223751107239481435.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+/* ^ Dreamy Intro*/
+
+/*Dreamy Idle*/
 .animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223752884143788142.webp"]),
-.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223752884143788142.webp"]) {
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223752884143788142.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223752884143788142.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223752884143788142.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223752884143788142.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223752884143788142.webp"]) {
+
 	--fake-profile-effect: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/dreamy/idle.png");
 }
+.animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223752884143788142.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223752884143788142.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223752884143788142.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223752884143788142.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223752884143788142.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223752884143788142.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+/* ^ Dreamy Idle*/
 
+/* ^ Dreamy*/
+
+/*Ki*/
+
+/*Ki Intro*/
 .animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223759041659142266.webp"]),
-.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223759041659142266.webp"]) {
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223759041659142266.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223759041659142266.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223759041659142266.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223759041659142266.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223759041659142266.webp"]) {
+
 	--fake-profile-effect: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/ki-detonate/intro.png");
 }
+.animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223759041659142266.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223759041659142266.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223759041659142266.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223759041659142266.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223759041659142266.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223759041659142266.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+/* ^ Ki Intro*/
+
+/*Ki Idle*/
 .animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223762811172425838.webp"]),
-.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223762811172425838.webp"]) {
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223762811172425838.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223762811172425838.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223762811172425838.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223762811172425838.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223762811172425838.webp"]) {
+
 	--fake-profile-effect: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/ki-detonate/idle.png");
 }
+.animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223762811172425838.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223762811172425838.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223762811172425838.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223762811172425838.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223762811172425838.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223762811172425838.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+/* ^ Ki Idle*/
 
+/* ^ Ki*/
+
+/*Sushi*/
+
+/*Sushi Intro*/
 .animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223766222407995552.webp"]),
-.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223766222407995552.webp"]) {
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223766222407995552.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223766222407995552.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223766222407995552.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223766222407995552.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223766222407995552.webp"]) {
+
 	--fake-profile-effect: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/sushi-mania/intro.png");
 }
+.animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223766222407995552.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223766222407995552.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223766222407995552.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223766222407995552.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223766222407995552.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223766222407995552.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+/* ^ Sushi Intro*/
+
+/*Sushi Idle*/
 .animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223767217347231744.webp"]),
-.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223767217347231744.webp"]) {
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223767217347231744.webp"]),
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223767217347231744.webp"]),
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223767217347231744.webp"]),
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223767217347231744.webp"]),
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223767217347231744.webp"]) {
+
 	--fake-profile-effect: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-02-28/sushi-mania/idle.png");
 }
+.animatorLeft_f985f4:has(img[src*="https://cdn.discordapp.com/emojis/1223767217347231744.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.animatorRight_b16ad3:has(img[src*="https://cdn.discordapp.com/emojis/1223767217347231744.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.root_ba16f0:has(img[src*="https://cdn.discordapp.com/emojis/1223767217347231744.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.profilePanel_e2cafe:has(img[src*="https://cdn.discordapp.com/emojis/1223767217347231744.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.accountProfilePopoutWrapper_d4887f:has(img[src*="https://cdn.discordapp.com/emojis/1223767217347231744.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+.customizationSection__0f57e:has(img[src*="https://cdn.discordapp.com/emojis/1223767217347231744.webp"]) [class^="profileEffects"] {
+	display: none;
+}
+/* ^ Sushi Idle*/
+
+/* ^ Sushi*/
+
+/* ^ Anime V2 Effects*/
+
+/* ^ Anime V2*/
