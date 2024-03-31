@@ -7,6 +7,25 @@
 
 ### Due to the limitations of css, you requires at least Discord Nitro Basic to have your own Cosmetics.
 
+### Beta Status
+
+| Categories | Status |
+| --- | --- |
+| Shy | Added |
+| Springtoons | Not Added |
+| Anime V2 | Added |
+| Elements | Not Added |
+| Lunar New Year | Not Added |
+| Cyberpunk | Not Added |
+| Monster | Not Added |
+| Winter | Not Added |
+| Halloween | Not Added |
+| Fall | Not Added |
+| Fantasy | Not Added |
+| Anime | Not Added |
+| Breakfast | Not Added |
+| Disxcore | Not Added |
+
 # How To Use
 
 ## Join on of the Discord servers below:
