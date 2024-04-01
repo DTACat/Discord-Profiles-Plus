@@ -14,9 +14,9 @@
 | Shy | Added |
 | Springtoons | Not Added |
 | Anime V2 | Added |
-| Elements | Not Added |
+| Elements | Being Added |
 | Lunar New Year | Not Added |
-| Cyberpunk | Not Added |
+| Cyberpunk | Being Added |
 | Monster | Not Added |
 | Winter | Not Added |
 | Halloween | Not Added |
