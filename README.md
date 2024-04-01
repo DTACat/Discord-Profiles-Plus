@@ -24,7 +24,9 @@
 | Fantasy | Being Added |
 | Anime | Being Added |
 | Breakfast | Being Added |
-| Disxcore | Being Added |
+| Disxcore (Full) | Being Added |
+| Festive | Might Be Added |
+| Summer | Being Added |
 
 # How To Use
 
