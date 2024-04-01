@@ -19,12 +19,12 @@
 | Cyberpunk | Being Added |
 | Monster | Not Added |
 | Winter | Not Added |
-| Halloween | Not Added |
+| Halloween | Being Added |
 | Fall | Not Added |
-| Fantasy | Not Added |
+| Fantasy | Being Added |
 | Anime | Not Added |
-| Breakfast | Not Added |
-| Disxcore | Not Added |
+| Breakfast | Being Added |
+| Disxcore | Being Added |
 
 # How To Use
 
