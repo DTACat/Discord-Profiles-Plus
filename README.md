@@ -12,17 +12,17 @@
 | Categories | Status |
 | --- | --- |
 | Shy | Added |
-| Springtoons | Not Added |
+| Springtoons | Not Being Added |
 | Anime V2 | Added |
 | Elements | Added |
-| Lunar New Year | Not Added |
+| Lunar New Year | Being Added |
 | Cyberpunk | Being Added |
-| Monster | Not Added |
-| Winter | Not Added |
+| Monster | Being Added |
+| Winter | Being Added |
 | Halloween | Being Added |
-| Fall | Not Added |
+| Fall | Being Added |
 | Fantasy | Being Added |
-| Anime | Not Added |
+| Anime | Being Added |
 | Breakfast | Being Added |
 | Disxcore | Being Added |
 
