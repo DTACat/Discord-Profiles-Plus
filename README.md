@@ -32,7 +32,9 @@
 
 ## Join on of the Discord servers below:
 
-### [Server 1](https://discord.gg/zdhpfZXwME)
+### [Decorations Server 1](https://discord.gg/zdhpfZXwME)
+
+### [Effects Server 1](https://discord.gg/MZQgXZAbhF)
 
 ## Put an emoji in your About Me.
 
