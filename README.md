@@ -9,24 +9,24 @@
 
 ### Beta Status
 
-| Categories | Status |
-| --- | --- |
-| Shy | Added |
-| Springtoons | Not Being Added |
-| Anime V2 | Added |
-| Elements | Added |
-| Lunar New Year | Being Added |
-| Cyberpunk | Being Added |
-| Monster | Being Added |
-| Winter | Being Added |
-| Halloween | Being Added |
-| Fall | Being Added |
-| Fantasy | Being Added |
-| Anime | Being Added |
-| Breakfast | Being Added |
-| Disxcore (Full) | Being Added |
-| Festive | Might Be Added |
-| Summer | Being Added |
+| Categories | Deco or Effects | Status |
+| --- | --- | --- |
+| Shy | Both | Added |
+| Springtoons | None | Not Being Added |
+| Anime V2 | Both | Added |
+| Elements | Both | Added |
+| Lunar New Year | Deco Only | Added |
+| Cyberpunk | None | Being Added |
+| Monster | None | Being Added |
+| Winter | None | Being Added |
+| Halloween | None | Being Added |
+| Fall | None | Being Added |
+| Fantasy | None | Being Added |
+| Anime | None | Being Added |
+| Breakfast | None | Being Added |
+| Disxcore (Full) | None | Being Added |
+| Festive | None | Might Be Added |
+| Summer | None | Being Added |
 
 # How To Use
 
