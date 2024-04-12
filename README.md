@@ -14,6 +14,7 @@
 
 | Categories | Deco or Effects | Status |
 | --- | --- | --- |
+| Lofi | None | Being Added |
 | Shy | Both | Added |
 | Springtoons | None | Not Being Added |
 | Anime V2 | Both | Added |
