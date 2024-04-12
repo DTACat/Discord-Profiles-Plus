@@ -2,6 +2,8 @@
 
 ![Logo (78)](https://github.com/DTACat/Just-Effects-And-Decorations/assets/141873540/9dfcf931-0755-41a3-ae21-25681f5940fc)
 
+![Frame 32 (1)](https://github.com/DTACat/Just-Effects-And-Decorations/assets/141873540/6c316cab-3447-454f-9705-2cfe384d2953)
+
 ### This is a remake of [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme) but much more advanced.
 
 ### Basicly it's [Fake Profile Themes](https://github.com/Vendicated/Vencord/tree/main/src/plugins/fakeProfileThemes) if it was for Profile Cosmetics, and was only developed in css.
