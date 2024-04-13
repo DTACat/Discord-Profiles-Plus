@@ -1,8 +1,8 @@
 # This is currently being developed, please be patient.
 
-![Logo (78)](https://github.com/DTACat/Just-Effects-And-Decorations/assets/141873540/9dfcf931-0755-41a3-ae21-25681f5940fc)
+![78](https://raw.githubusercontent.com/DTACat/Just-Effects-And-Decorations/main/Assets/78.png)
 
-![Frame 32 (1)](https://github.com/DTACat/Just-Effects-And-Decorations/assets/141873540/6c316cab-3447-454f-9705-2cfe384d2953)
+![32](https://raw.githubusercontent.com/DTACat/Just-Effects-And-Decorations/main/Assets/32.png)
 
 ### This is a remake of [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme) but much more advanced.
 
