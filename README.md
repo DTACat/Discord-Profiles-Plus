@@ -1,14 +1,10 @@
 # This is currently being developed, please be patient.
 
-![78](https://raw.githubusercontent.com/DTACat/Just-Effects-And-Decorations/main/Assets/78.png)
+![ProSoon83](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/ProSoon83.png)
 
-![32](https://raw.githubusercontent.com/DTACat/Just-Effects-And-Decorations/main/Assets/32.png)
+### Makes your Discord profile look 100 times better.
 
 ### This is a remake of [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme) but much more advanced.
-
-### Basicly it's [Fake Profile Themes](https://github.com/Vendicated/Vencord/tree/main/src/plugins/fakeProfileThemes) if it was for Profile Cosmetics, and was only developed in css.
-
-### Due to the limitations of css, you requires at least Discord Nitro Basic to have your own Cosmetics.
 
 ### Beta Status
 
@@ -63,3 +59,8 @@ What Profile Cosmetics you want on, depends on what emojis you put in your About
 ## Why can't I use Springtoons?
 
 ### 1: The Effects are buggy. 2: They ugly.
+
+
+
+
+Due to the limitations of css, you requires at least Discord Nitro Basic to have access to most features.
