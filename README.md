@@ -6,6 +6,8 @@
 
 ### This is a remake of [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme) but much more advanced.
 
+![PplusSoon3B](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/PplusSoon3B.png)
+
 ### Beta Status
 
 | Categories | Deco or Effects | Status |
