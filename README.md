@@ -1,6 +1,6 @@
 # This is currently being developed, please be patient.
 
-![ProSoon83](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/ProSoon83.png)
+![PplusSoon2](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/PplusSoon2.png)
 
 ### Makes your Discord profile look 100 times better.
 
