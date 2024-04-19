@@ -8,41 +8,9 @@
 
 ![PplusSoon3B](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/PplusSoon3B.png)
 
-### Beta Status
-
-| Categories | Deco or Effects | Status |
-| --- | --- | --- |
-| Lofi | None | Being Added |
-| Shy | Both | Added |
-| Springtoons | None | Not Being Added |
-| Anime V2 | Both | Added |
-| Elements | Both | Added |
-| Lunar New Year | Deco Only | Added |
-| Cyberpunk | None | Being Added |
-| Monster | None | Being Added |
-| Winter | None | Being Added |
-| Halloween | None | Being Added |
-| Fall | None | Being Added |
-| Fantasy | None | Being Added |
-| Anime | None | Being Added |
-| Breakfast | None | Being Added |
-| Disxcore (Full) | None | Being Added |
-| Festive | None | Might Be Added |
-| Summer | None | Being Added |
-
 # How To Use
 
-## Join on of the Discord servers below:
-
-### [Decorations Server 1](https://discord.gg/zdhpfZXwME)
-
-### [Effects Server 1](https://discord.gg/MZQgXZAbhF)
-
-## Put an emoji in your About Me.
-
-What Profile Cosmetics you want on, depends on what emojis you put in your About Me.
-
-## Then bam, you're finished.
+## Currently being changed, please hold
 
 # F&Q
 
