@@ -1,5 +1,7 @@
 # This is currently being developed, please be patient.
 
+## As of Date this is free to onyone with or withou Nitro of any kind.
+
 ![PplusSoon2](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/PplusSoon2.png)
 
 ### Makes your Discord profile look 100 times better.
@@ -29,8 +31,3 @@
 ## Why can't I use Springtoons?
 
 ### 1: The Effects are buggy. 2: They ugly.
-
-
-
-
-Due to the limitations of css, you requires at least Discord Nitro Basic to have access to most features.
