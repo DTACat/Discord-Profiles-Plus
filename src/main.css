@@ -1,8 +1,10 @@
 @import url('https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/src/animev2.css');
 @import url('https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/src/elements.css');
+@import url('https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/src/lofi.css');
 @import url('https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/src/lunar.css');
 @import url('https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/src/secrets.css');
 @import url('https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/src/shy.css');
+
 [class^="profileEffectShopPreview"] [class^="profileEffects"] {
 	display: revert;
 }
@@ -54,8 +56,7 @@
 }
 
 img[class^="avatarDecoration"],
-:not() > * > *[class^="avatarDecoration"] img {
-	object-position: 9999px;
+:not([class*="shopCard"],[class*="avatarContainer"],[class*="avatarPreviewContainer"]) > * > *[class^="avatarDecoration"] img {
 	background-image: var(--fake-avatar-decoration);
 	background-size: cover;
 }
