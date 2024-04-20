@@ -2,6 +2,18 @@
 
 ## As of Date this is free to onyone with or withou Nitro of any kind.
 
+<details>
+
+<summary>Full Chang log</summary>
+
+- Added Lo-fi Vibe Collectibles
+
+- You can now Equip Avatar Decrations, Profile Effects, About Me Styles and Profile Borders with Discord official emojis. Meaning you no longer require Nitro of any kind to use Profiles Plus.
+
+- You can now see the Avatar Decorations of users who don't have a Profiles Plus Avatar Decoration equipped.
+
+</details>
+
 ![PplusSoon2](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/PplusSoon2.png)
 
 ### Makes your Discord profile look 100 times better.
