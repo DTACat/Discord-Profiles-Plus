@@ -1,6 +1,6 @@
 # This is currently being developed, please be patient.
 
-## As of Date this is free to anyone with or withou Nitro of any kind.
+## As of Date this is free to anyone without Nitro of any kind.
 
 <details>
 
