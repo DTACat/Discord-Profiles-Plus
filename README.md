@@ -32,7 +32,7 @@
 
 ## [https://docs.google.com/spreadsheets/d/11JArL-sZCsKSErZM1q3OxXSIxdF3ouDgbS19aeYJ2yw](https://docs.google.com/spreadsheets/d/11JArL-sZCsKSErZM1q3OxXSIxdF3ouDgbS19aeYJ2yw)
 
-# F&Q
+# FAQ
 
 ## Can other people see my profile cosmetics?
 
