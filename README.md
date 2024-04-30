@@ -24,7 +24,13 @@
 
 # How To Use
 
-## Currently being changed, please hold
+## 1. Copy and Paste "https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Profiles-Plus.theme.css" and put it in your online themes tab on vencord
+
+![image 156](https://github.com/DTACat/Discord-Profiles-Plus/assets/141873540/24a162cb-bc46-4bf0-8dbc-1d46988e64de)
+
+## 2. Use the spreadsheet below to know what emojis to put in your about me
+
+## [https://docs.google.com/spreadsheets/d/11JArL-sZCsKSErZM1q3OxXSIxdF3ouDgbS19aeYJ2yw](https://docs.google.com/spreadsheets/d/11JArL-sZCsKSErZM1q3OxXSIxdF3ouDgbS19aeYJ2yw)
 
 # F&Q
 
