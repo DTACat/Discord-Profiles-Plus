@@ -1,0 +1,15 @@
+[class*="userProfile"] {
+	animation: profile-small-popout-animation 1.5s forwards;
+}
+@keyframes profile-small-popout-animation {
+	0% {width: 10px;}
+	100% {width: 340px;}
+}
+
+[class*="userProfileModal"] {
+	animation: profile-big-popout-animation 1.5s forwards;
+}
+@keyframes profile-big-popout-animation {
+	0% {width: 10px;}
+	100% {width: 100;}
+}
