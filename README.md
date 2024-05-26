@@ -14,13 +14,22 @@
 
 </details>
 
-![BannerWithSakura](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/BannerWithSakura.png)
+![TitleBanner](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/Logo-2024-05-26T131255.883.png)
 
 ### Makes your Discord profile look 100 times better.
 
 ### This is a remake of [Custom Effects And Decorations](https://github.com/DTACat/Custom-Effects-And-Decorations-Discord-Theme) but much more advanced.
 
-![BannerWithBoost](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/BannerWithBoost.png)
+### Allows you to have
+- Free Profile Effects
+- Free Avatar Decorations
+- About Me Styles
+### In the works
+- Pop-out Animations
+- Animated Gradients
+### Planned for the future
+- Super messages
+- Profile Borders
 
 # How To Use
 
