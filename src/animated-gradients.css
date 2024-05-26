@@ -1,24 +1,10 @@
-[class*="user"]:has([src*="1169899815983915121"]) {
-    background-image: linear-gradient(to right, red, blue);
-	  background-size: 600%;
-	  animation: dta-profile-animation 10s infinite;
+[class*="userProfile"] {
+	background-image: linear-gradient(to right, var(--profile-gradient-primary-color), var(--profile-gradient-secondary-color));
+	background-size: 400%;
+	animation: profile-gradient-animation 10s infinite;
 }
-
-@keyframes dta-profile-animation {
-	  0% {background-position: right}
-	  50% {background-position: left}
-	  100% {background-position: right}
-}
-
-
-[class*="user"]:has([src*="329671025312923648"]) {
-  	background-image: linear-gradient(to right, white, black);
-	  background-size: 600%;
-	  animation: tolg-profile-animation 0.1s infinite;
-}
-
-@keyframes tolg-profile-animation {
-	  0% {background-position: right}
-	  50% {background-position: left}
-	  100% {background-position: right}
+@keyframes profile-gradient-animation {
+	0% {background-position: right}
+	50% {background-position: left}
+	100% {background-position: right}
 }
