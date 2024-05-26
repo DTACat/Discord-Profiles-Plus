@@ -1,7 +1,7 @@
 /**
  * @name Profiles Plus Beta
  * @author DTACat
- * @version Beta1
+ * @version Beta2
  * @description FOR DEV USE ONLY. NOT FULL RELEASE.
  * @source https://github.com/DTACat/Discord-Profiles-Plus
  * @website https://dtacat.github.io/Collectibles/
@@ -9,5 +9,4 @@
  */
 
 @import url('https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/src/main.css');
-@import url('https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/src/animated-gradients.css');
-@import url('https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/src/popout-animation.css');
+@import url('https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/src/main-beta.css');
