@@ -30,6 +30,7 @@
 ### Planned for the future
 - Super messages
 - Profile Borders
+- Set Boost Badges
 
 # How To Use
 
