@@ -1,5 +1,5 @@
 [class*="userProfile"]:not([class*="userProfileModal"]) {
-    --animation 1.5s forwards;
+        animation: 1.5s forwards;
 }
 @keyframes profile-small-popout-animation {
 	0% {width: 10px;}
