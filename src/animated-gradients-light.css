@@ -1,7 +1,7 @@
 [class*="userProfile"]:not([class*="userProfileModal"]) {
 	background-image: linear-gradient(to right, var(--profile-gradient-primary-color), var(--profile-gradient-secondary-color));
 	background-size: 400%;
-	animation: profile-small-popout-animation 1.5s forwards, profile-gradient-animation 10s infinite;
+	animation: profile-gradient-animation 10s infinite;
 }
 @keyframes profile-small-popout-animation {
 	0% {width: 10px;}
@@ -11,11 +11,7 @@
 [class*="userProfileModal"] {
 	background-image: linear-gradient(to right, var(--profile-gradient-primary-color), var(--profile-gradient-secondary-color));
 	background-size: 400%;
-	animation: profile-big-popout-animation 1.5s forwards, profile-gradient-animation 7s infinite;
-}
-@keyframes profile-big-popout-animation {
-	0% {width: 10px;}
-	100% {width: 100;}
+	animation: profile-gradient-animation 7s infinite;
 }
 
 @keyframes profile-gradient-animation {
