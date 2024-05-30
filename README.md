@@ -24,9 +24,9 @@
 - Free Profile Effects
 - Free Avatar Decorations
 - About Me Styles
+- Animated Gradients
 ### In the works
 - Pop-out Animations
-- Animated Gradients
 ### Planned for the future
 - Super messages
 - Profile Borders
