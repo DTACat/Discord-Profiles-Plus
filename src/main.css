@@ -25,8 +25,11 @@
 [class*="userProfileInner"]:hover::after {
 	opacity: 0.20;
 }
-[class*="userProfileModalInner"]::after, [class*="userPopoutInner"]::after {
+[class*="WithBanner"]::after, [class*="PremiumWithoutBanner"]::after {
 	margin: -4px;
+}
+[class*="Unthemed"] [class*="userProfile"]::after {
+	margin: 0px;
 }
 
 [class*="userProfile"] [class*="OverlayBackground"]::after {
