@@ -1,5 +1,3 @@
-# idk, its broken or something. fix will come when im bothered to fix it
-
 # This is currently being developed, please be patient.
 
 ## As of The 1st of May 2024 this is free to anyone without Nitro of any kind.
