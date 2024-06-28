@@ -1,0 +1,54 @@
+/*Deco*/
+
+/*Saw*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🪚"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_9cd7e573f48859a995266a0a8345f336.png?size=240&passthrough=true");
+}
+[class*="userProfile"]:has([aria-label="🪚"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_9cd7e573f48859a995266a0a8345f336.png?size=240&passthrough=false");
+}
+[class*="userProfile"]:has([aria-label="🪚"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="🪚"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Saw*/
+
+/*Orb Array*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🟣"]) {
+	--fake-avatar-decoration: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/collectible-assets/orb-array-a.png");
+}
+[class*="userProfile"]:has([aria-label="🟣"]) {
+	--fake-avatar-decoration: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/collectible-assets/orb-array.png");
+}
+[class*="userProfile"]:has([aria-label="🟣"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="🟣"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Orb Array*/
+
+/*Gyoiko Sakura*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🌻"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_d6760c807d460b45e06427c09ab61390.png?size=240&passthrough=true");
+}
+[class*="userProfile"]:has([aria-label="🌻"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_d6760c807d460b45e06427c09ab61390.png?size=240&passthrough=false");
+}
+[class*="userProfile"]:has([aria-label="🌻"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="🌻"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Gyoiko Sakura*/
+
+/* ^ Deco*/
