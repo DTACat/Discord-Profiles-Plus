@@ -1,0 +1,29 @@
+/*Animated Gradient*/
+
+[class*="listItem"] [class*="wrapper"]:has([data-dnd-name*="Discord Experiment Hub"]) {
+    background-image: url(https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/secrets/Cyan-Deco.png);
+    background-size: 80%;
+    background-position: center;
+	margin-top: 13px;
+    background-repeat: no-repeat;
+}
+
+[class*="userProfile"]:not([class*="fullSize"]) {
+	background-image: linear-gradient(to right, var(--profile-gradient-primary-color), var(--profile-gradient-secondary-color));
+	background-size: 400%;
+	animation: profile-small-popout-animation 1.5s forwards, profile-gradient-animation 10s infinite;
+}
+
+[class*="root"] [class*="userProfileModal"] {
+	background-image: linear-gradient(to right, var(--profile-gradient-button-color), var(--profile-message-input-border-color));
+	background-size: 400%;
+	animation: profile-big-popout-animation 1.5s forwards, profile-gradient-animation 7s infinite;
+}
+
+@keyframes profile-gradient-animation {
+	0% {background-position: right}
+	50% {background-position: left}
+	100% {background-position: right}
+}
+
+/* ^ Animated Gradient*/
