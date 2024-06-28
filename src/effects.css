@@ -1,0 +1,39 @@
+/*Effects*/
+
+/*Lightning Effect*/
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🌩️"]) {
+    --fake-profile-effect: url("https://cdn.discordapp.com/assets/profile_effects/lightning/intro.png");
+}
+[class*="userProfile"]:has([aria-label="🌩️"]) {
+    --fake-profile-effect: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/collectible-assets/lightning-frame.png");
+}
+[class*="userProfile"]:has([aria-label="🌩️"]) [class^="profileEffect"] {
+    display: none;
+}
+[id*="popout"]:has([aria-label="🌩️"]) [class^="profileEffect"] {
+    display: none;
+}
+:not(:has([class*="collectible"])) [class*="root"]:has([aria-label="🌩️"]) [class^="profileEffect"] {
+    display: none;
+}
+/* ^ Lightning Effect*/
+
+/*Smiley Effect*/
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🙂"]) {
+    --fake-profile-effect: url("https://raw.githubusercontent.com/DTACat/Just-Effects-And-Decorations/main/secrets/ezgif-6-caaa9a147f.gif");
+}
+[class*="userProfile"]:has([aria-label="🙂"]) {
+    --fake-profile-effect: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/collectible-assets/smiley-frame.png");
+}
+[class*="userProfile"]:has([aria-label="🙂"]) [class^="profileEffects"] {
+    display: none;
+}
+[id*="popout"]:has([aria-label="🙂"]) [class^="profileEffects"] {
+    display: none;
+}
+:not(:has([class*="collectible"])) [class*="root"]:has([aria-label="🙂"]) [class^="profileEffects"] {
+    display: none;
+}
+/* ^ Smiley Effect*/
+
+/* ^ Effects*/
