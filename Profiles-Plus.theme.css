@@ -1,12 +1,11 @@
 /**
  * @name Profiles Plus
  * @author DTACat
- * @version 0.0.1
+ * @version 0.0.2
  * @description Makes your Discord profile look 100 times better.
  * @source https://github.com/DTACat/Discord-Profiles-Plus
  * @website https://dtacat.github.io/Collectibles/
  * @invite Mcwh7hGcWb
  */
 
-@import url('https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/src/main.css');
-@import url('https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/src/animated-gradients.css');
+@import url('https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/src/main.css');
