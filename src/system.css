@@ -1,0 +1,89 @@
+[class^="profileEffectShopPreview"] [class^="profileEffects"] {
+	display: revert;
+}
+
+[class^="profileEffects"] {
+    opacity: 1;
+	transition: opacity 0.6s ease-in-out;
+}
+[id*="popout"]:has([class*="userProfile"]):hover [class^="profileEffects"] {
+	opacity: 0.20;
+}
+[class*="root"]:has([class*="fullSize"]):hover [class^="profileEffects"] {
+	opacity: 0.20;
+}
+
+[class*="userProfileInner"]::after {
+	content: "";
+	background: var(--fake-profile-effect);
+	margin-left: -4px;
+	margin-top: -4px;
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	pointer-events:none;
+	z-index: 2;
+	opacity: 1;
+	transition: opacity 0.6s ease-in-out;
+}
+[class*="userProfileInner"]:hover::after {
+	opacity: 0.20;
+}
+[class*="userPanel"] [class*="userProfileInner"]::after {
+	margin: 0px;
+}
+
+[class*="fullSize"] [class*="fullSizeOverlayBackground"]::after {
+	content: "";
+	background: var(--fake-aboutme-style);
+	width: 103%;
+	height: 100%;
+	margin-left: -16px;
+	position: absolute;
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	pointer-events:none;
+	z-index: 1;
+	opacity: 1;
+	transition: opacity 0.6s ease-in-out;
+}
+[class*="fullSize"] [class*="fullSizeOverlayBackground"]:hover::after {
+	opacity: 0.20;
+}
+
+[class*="userPanel"] [class*="overlayBackground"]::after {
+	content: "";
+	background: var(--fake-aboutme-style);
+	width: 102%;
+	height: 110%;
+	margin-left: -16px;
+	margin-top: -14px;
+	position: absolute;
+	background-size: 100% auto;
+	background-repeat: no-repeat;
+	pointer-events:none;
+	z-index: 1;
+	opacity: 1;
+	transition: opacity 0.6s ease-in-out;
+}
+[class*="userPanel"] [class*="overlayBackground"]:has([class*="connection"])::after {
+	display: none;
+}
+[class*="userPanel"] [class*="overlayBackground"]:hover::after {
+	opacity: 0.20;
+}
+
+img[class^="avatarDecoration"],
+:not([class*="shopCard"],[class*="avatarContainer"],[class*="avatarPreviewContainer"]) > * > *[class^="avatarDecoration"] img {
+	background-image: var(--fake-avatar-decoration);
+	background-size: cover;
+}
+[class*="avatarDecoration"] {
+    opacity: 1;
+	transition: opacity 0.6s ease-in-out;
+}
+[class*="userProfile"] [class*="avatar"]:hover [class*="avatarDecoration"] {
+    opacity: 0.20;
+}
