@@ -68,4 +68,21 @@
 
 /* ^ Rainy Mood*/
 
+/*Reyna’s Leer*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="⭕"], [aria-label=":o:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_a87e3efa4de2956331831681231ce63b.png?size=240&passthrough=true");
+}
+[class*="userProfile"]:has([aria-label="⭕"], [aria-label=":o:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_a87e3efa4de2956331831681231ce63b.png?size=240&passthrough=false");
+}
+[class*="userProfile"]:has([aria-label="⭕"], [aria-label=":o:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="⭕"], [aria-label=":o:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Reyna’s Leer*/
+
 /* ^ Deco*/
