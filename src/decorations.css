@@ -2,16 +2,16 @@
 
 /*Saw*/
 
-[class*="app-focused"] [class*="userProfile"]:has([aria-label="🪚"]) {
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🪚"], [aria-label=":carpentry_saw:"], [aria-label="🩵"], [aria-label=":light_blue_heart:"]) {
 	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_9cd7e573f48859a995266a0a8345f336.png?size=240&passthrough=true");
 }
-[class*="userProfile"]:has([aria-label="🪚"]) {
+[class*="userProfile"]:has([aria-label="🪚"], [aria-label=":carpentry_saw:"], [aria-label="🩵"], [aria-label=":light_blue_heart:"]) {
 	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_9cd7e573f48859a995266a0a8345f336.png?size=240&passthrough=false");
 }
-[class*="userProfile"]:has([aria-label="🪚"]) [class*="avatarDecoration"] [class*="avatar"]{
+[class*="userProfile"]:has([aria-label="🪚"], [aria-label=":carpentry_saw:"], [aria-label="🩵"], [aria-label=":light_blue_heart:"]) [class*="avatarDecoration"] [class*="avatar"]{
 	object-position: 9999px;
 }
-[class*="userPopout"]:has([aria-label="🪚"]) [class*="avatarDecoration"]{
+[class*="userPopout"]:has([aria-label="🪚"], [aria-label=":carpentry_saw:"], [aria-label="🩵"], [aria-label=":light_blue_heart:"]) [class*="avatarDecoration"]{
 	object-position: 9999px;
 }
 
@@ -19,16 +19,16 @@
 
 /*Orb Array*/
 
-[class*="app-focused"] [class*="userProfile"]:has([aria-label="🟣"]) {
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"], [aria-label="💜"], [aria-label=":purple_heart:"]) {
 	--fake-avatar-decoration: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/collectible-assets/orb-array-a.png");
 }
-[class*="userProfile"]:has([aria-label="🟣"]) {
+[class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"], [aria-label="💜"], [aria-label=":purple_heart:"]) {
 	--fake-avatar-decoration: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/collectible-assets/orb-array.png");
 }
-[class*="userProfile"]:has([aria-label="🟣"]) [class*="avatarDecoration"] [class*="avatar"]{
+[class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"], [aria-label="💜"], [aria-label=":purple_heart:"]) [class*="avatarDecoration"] [class*="avatar"]{
 	object-position: 9999px;
 }
-[class*="userPopout"]:has([aria-label="🟣"]) [class*="avatarDecoration"]{
+[class*="userPopout"]:has([aria-label="🟣"], [aria-label=":purple_circle:"], [aria-label="💜"], [aria-label=":purple_heart:"]) [class*="avatarDecoration"]{
 	object-position: 9999px;
 }
 
@@ -36,16 +36,16 @@
 
 /*Gyoiko Sakura*/
 
-[class*="app-focused"] [class*="userProfile"]:has([aria-label="🌻"]) {
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🌻"], [aria-label=":sunflower:"]) {
 	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_d6760c807d460b45e06427c09ab61390.png?size=240&passthrough=true");
 }
-[class*="userProfile"]:has([aria-label="🌻"]) {
+[class*="userProfile"]:has([aria-label="🌻"], [aria-label=":sunflower:"]) {
 	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_d6760c807d460b45e06427c09ab61390.png?size=240&passthrough=false");
 }
-[class*="userProfile"]:has([aria-label="🌻"]) [class*="avatarDecoration"] [class*="avatar"]{
+[class*="userProfile"]:has([aria-label="🌻"], [aria-label=":sunflower:"]) [class*="avatarDecoration"] [class*="avatar"]{
 	object-position: 9999px;
 }
-[class*="userPopout"]:has([aria-label="🌻"]) [class*="avatarDecoration"]{
+[class*="userPopout"]:has([aria-label="🌻"], [aria-label=":sunflower:"]) [class*="avatarDecoration"]{
 	object-position: 9999px;
 }
 
