@@ -51,4 +51,21 @@
 
 /* ^ Gyoiko Sakura*/
 
+/*Rainy Mood*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="❌"], [aria-label=":x:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_e8c11f139e55dac538cdaafb3caa2317.png?size=240&passthrough=true");
+}
+[class*="userProfile"]:has([aria-label="❌"], [aria-label=":x:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_e8c11f139e55dac538cdaafb3caa2317.png?size=240&passthrough=false");
+}
+[class*="userProfile"]:has([aria-label="❌"], [aria-label=":x:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="❌"], [aria-label=":x:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Rainy Mood*/
+
 /* ^ Deco*/
