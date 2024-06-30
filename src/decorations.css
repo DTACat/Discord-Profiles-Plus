@@ -85,4 +85,21 @@
 
 /* ^ Reyna’s Leer*/
 
+/*Balance*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🛑"], [aria-label=":octagonal_sign:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_82e4df4028396ad5ccaaafb397fa6248.png?size=240&passthrough=true");
+}
+[class*="userProfile"]:has([aria-label="🛑"], [aria-label=":octagonal_sign:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_82e4df4028396ad5ccaaafb397fa6248.png?size=240&passthrough=false");
+}
+[class*="userProfile"]:has([aria-label="🛑"], [aria-label=":octagonal_sign:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="🛑"], [aria-label=":octagonal_sign:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Balance*/
+
 /* ^ Deco*/
