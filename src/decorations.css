@@ -102,4 +102,38 @@
 
 /* ^ Balance*/
 
+/*Arrows*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🏹"], [aria-label=":bow_and_arrow:"]) {
+	--fake-avatar-decoration: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/arrows/loop.png");
+}
+[class*="userProfile"]:has([aria-label="🏹"], [aria-label=":bow_and_arrow:"]) {
+	--fake-avatar-decoration: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/arrows/thumbnail.png");
+}
+[class*="userProfile"]:has([aria-label="🏹"], [aria-label=":bow_and_arrow:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="🏹"], [aria-label=":bow_and_arrow:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Arrows*/
+
+/*Chaos*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🚀"], [aria-label=":rocket:"]) {
+	--fake-avatar-decoration: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/chaos/loop2.png");
+}
+[class*="userProfile"]:has([aria-label="🚀"], [aria-label=":rocket:"]) {
+	--fake-avatar-decoration: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/bopl-battle/decorations/chaos/thumbnail.png");
+}
+[class*="userProfile"]:has([aria-label="🚀"], [aria-label=":rocket:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="🚀"], [aria-label=":rocket:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Chaos*/
+
 /* ^ Deco*/
