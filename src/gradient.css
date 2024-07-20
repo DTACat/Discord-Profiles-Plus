@@ -1,23 +1,15 @@
 /*Animated Gradient*/
 
-[class*="userProfile"]:not([class*="fullSize"]) {
-	background-image: linear-gradient(to right, var(--profile-gradient-button-color), var(--theme-text-color-light));
+[class*="userProfileO"]:not([class*="fullSize"]) {
+	background-image: linear-gradient(to right, var(--profile-gradient-primary-color), var(--profile-gradient-secondary-color));
 	background-size: 400%;
 	animation: profile-small-popout-animation 1.5s forwards, profile-gradient-animation 10s infinite;
 }
 
-[class*="root"] [class*="userProfileModal"] {
-	background-image: linear-gradient(to right, var(--profile-gradient-button-color), var(--theme-text-color-light));
+[class*="root"] [class*="userProfileOuterThemed"] {
+	background-image: linear-gradient(to right, var(--profile-gradient-primary-color), var(--profile-gradient-secondary-color));
 	background-size: 400%;
 	animation: profile-big-popout-animation 1.5s forwards, profile-gradient-animation 7s infinite;
-}
-
-[class*="theme-light"] [class*="userProfile"]:not([class*="fullSize"]) {
-	background: white;
-}
-
-[class*="theme-light"] [class*="root"] [class*="userProfileModal"] {
-	background: white;
 }
 
 @keyframes profile-gradient-animation {
