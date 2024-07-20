@@ -136,4 +136,21 @@
 
 /* ^ Chaos*/
 
+/*Frog Hat*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="⛔"], [aria-label=":no_entry:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_4936aa6c33a101b593f9607d48d686ec.png?size=240&passthrough=true");
+}
+[class*="userProfile"]:has([aria-label="⛔"], [aria-label=":no_entry:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_4936aa6c33a101b593f9607d48d686ec.png?size=240&passthrough=false");
+}
+[class*="userProfile"]:has([aria-label="⛔"], [aria-label=":no_entry:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="⛔"], [aria-label=":no_entry:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Frog Hat*/
+
 /* ^ Deco*/
