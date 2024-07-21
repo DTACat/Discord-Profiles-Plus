@@ -153,4 +153,32 @@
 
 /* ^ Frog Hat*/
 
+/*Flower Clouds*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="💯"], [aria-label=":100:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_d9ff5ff133ed9176895a4a2b5e58f1b8.png?size=240&passthrough=true");
+}
+[class*="userProfile"]:has([aria-label="💯"], [aria-label=":100:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_d9ff5ff133ed9176895a4a2b5e58f1b8.png?size=240&passthrough=false");
+}
+[class*="userProfile"]:has([aria-label="💯"], [aria-label=":100:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="💯"], [aria-label=":100:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Flower Clouds*/
+
+/*None*/
+
+[class*="userProfile"]:has([aria-label="🚫"], [aria-label=":no_entry_sign:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="🚫"], [aria-label=":no_entry_sign:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ None*/
+
 /* ^ Deco*/
