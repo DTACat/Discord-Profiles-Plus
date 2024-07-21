@@ -90,4 +90,31 @@
 }
 /* ^ Engine Madness*/
 
+/*Discord-Os*/
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="📛"], [aria-label=":name_badge:"]) {
+    --fake-profile-effect: url("https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/intro.png");
+}
+[class*="userProfile"]:has([aria-label="📛"], [aria-label=":name_badge:"]) {
+    --fake-profile-effect: url("https://cdn.discordapp.com/assets/profile_effects/effects/2023-9-25/cereal/reducedMotion.png");
+}
+[class*="userProfile"]:has([aria-label="📛"], [aria-label=":name_badge:"]) [class^="profileEffects"] {
+    display: none;
+}
+[id*="popout"]:has([aria-label="📛"], [aria-label=":name_badge:"]) [class^="profileEffects"] {
+    display: none;
+}
+:not(:has([class*="collectible"])) [class*="root"]:has([aria-label="📛"], [aria-label=":name_badge:"]) [class^="profileEffects"] {
+    display: none;
+}
+/* ^ Discord-Os*/
+
+/*None*/
+[class*="userProfile"]:has([aria-label="🚫"], [aria-label=":no_entry_sign:"]) [class^="profileEffects"] {
+    display: none;
+}
+[id*="popout"]:has([aria-label="🚫"], [aria-label=":no_entry_sign:"]) [class^="profileEffects"] {
+    display: none;
+}
+/* ^ None*/
+
 /* ^ Effects*/
