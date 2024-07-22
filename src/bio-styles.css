@@ -1,0 +1,13 @@
+/*About me*/
+
+/*Fairy Dust*/
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🔓"], [aria-label=":unlock:"]) {
+	--fake-aboutme-style: url("https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/loop.png");
+}
+
+[class*="userProfile"]:has([aria-label="🔓"], [aria-label=":unlock:"]) {
+	--fake-aboutme-style: url("https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/fairy/reducedMotion.png");
+}
+/* ^ Fairy Dust*/
+
+/* ^ About me*/
