@@ -170,6 +170,21 @@
 
 /* ^ Flower Clouds*/
 
+/*Chillet*/
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="💢"], [aria-label=":anger:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_48b8411feb1e80a69048fc65b3275b75.png?size=240&passthrough=true");
+}
+[class*="userProfile"]:has([aria-label="💢"], [aria-label=":anger:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_48b8411feb1e80a69048fc65b3275b75.png?size=240&passthrough=false");
+}
+[class*="userProfile"]:has([aria-label="💢"], [aria-label=":anger:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="💢"], [aria-label=":anger:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+/* ^ Chillet*/
+
 /*None*/
 
 [class*="userProfile"]:has([aria-label="🚫"], [aria-label=":no_entry_sign:"]) [class*="avatarDecoration"] [class*="avatar"]{
