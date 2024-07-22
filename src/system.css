@@ -52,7 +52,7 @@
 	opacity: 0.20;
 }
 
-[class*="userPanel"] [class*="overlayBackground"]::after {
+[class*="userPanel"] [class*="overlayBackground"]:has([class*="heading_"])::after {
 	content: "";
 	background: var(--fake-aboutme-style);
 	width: 102%;
@@ -66,9 +66,6 @@
 	z-index: 1;
 	opacity: 1;
 	transition: opacity 0.6s ease-in-out;
-}
-[class*="userPanel"] [class*="overlayBackground"]:has([class*="connection"])::after {
-	display: none;
 }
 [class*="userPanel"] [class*="overlayBackground"]:hover::after {
 	opacity: 0.20;
