@@ -185,6 +185,21 @@
 }
 /* ^ Chillet*/
 
+/*Bucket And Shovel*/
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="♨️"], [aria-label=":hotsprings:"]) {
+	--fake-avatar-decoration: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/2.png");
+}
+[class*="userProfile"]:has([aria-label="♨️"], [aria-label=":hotsprings:"]) {
+	--fake-avatar-decoration: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/deco/1.png");
+}
+[class*="userProfile"]:has([aria-label="♨️"], [aria-label=":hotsprings:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="♨️"], [aria-label=":hotsprings:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+/* ^ Bucket And Shovel*/
+
 /*None*/
 
 [class*="userProfile"]:has([aria-label="🚫"], [aria-label=":no_entry_sign:"]) [class*="avatarDecoration"] [class*="avatar"]{
