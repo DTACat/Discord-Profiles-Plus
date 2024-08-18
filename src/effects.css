@@ -128,10 +128,10 @@
 
 /*Digging*/
 [class*="app-focused"] [class*="userProfile"]:has([aria-label="♨️"], [aria-label=":hotsprings:"]) {
-    --fake-profile-effect: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/10.png");
+    --fake-profile-effect: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/15.png");
 }
 [class*="userProfile"]:has([aria-label="♨️"], [aria-label=":hotsprings:"]) {
-    --fake-profile-effect: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/12.png");
+    --fake-profile-effect: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/version2/custom-collectibles/paper-beach/effects/14.png");
 }
 [class*="userProfile"]:has([aria-label="♨️"], [aria-label=":hotsprings:"]) [class^="profileEffects"] {
     display: none;
