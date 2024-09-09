@@ -20,10 +20,10 @@
 /*Orb Array*/
 
 [class*="app-focused"] [class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"], [aria-label="💜"], [aria-label=":purple_heart:"]) {
-	--fake-avatar-decoration: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/collectible-assets/orb-array-a.png");
+	--fake-avatar-decoration: url("https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png");
 }
 [class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"], [aria-label="💜"], [aria-label=":purple_heart:"]) {
-	--fake-avatar-decoration: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/collectible-assets/orb-array.png");
+	--fake-avatar-decoration: url("https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png");
 }
 [class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"], [aria-label="💜"], [aria-label=":purple_heart:"]) [class*="avatarDecoration"] [class*="avatar"]{
 	object-position: 9999px;
