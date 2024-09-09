@@ -20,10 +20,10 @@
 
 /*Smiley Effect*/
 [class*="app-focused"] [class*="userProfile"]:has([aria-label="🙂"], [aria-label=":slight_smile:"], [aria-label="💜"], [aria-label=":purple_heart:"]) {
-    --fake-profile-effect: url("https://raw.githubusercontent.com/DTACat/Just-Effects-And-Decorations/main/secrets/ezgif-6-caaa9a147f.gif");
+    --fake-profile-effect: url("https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/10.png");
 }
 [class*="userProfile"]:has([aria-label="🙂"], [aria-label=":slight_smile:"], [aria-label="💜"], [aria-label=":purple_heart:"]) {
-    --fake-profile-effect: url("https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/collectible-assets/smiley-frame.png");
+    --fake-profile-effect: url("https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/11.png");
 }
 [class*="userProfile"]:has([aria-label="🙂"], [aria-label=":slight_smile:"], [aria-label="💜"], [aria-label=":purple_heart:"]) [class^="profileEffects"] {
     display: none;
