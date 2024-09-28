@@ -18,24 +18,6 @@
 }
 /* ^ Lightning Effect*/
 
-/*Smiley Effect*/
-[class*="app-focused"] [class*="userProfile"]:has([aria-label="🙂"], [aria-label=":slight_smile:"], [aria-label="💜"], [aria-label=":purple_heart:"]) {
-    --fake-profile-effect: url("https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/10.png");
-}
-[class*="userProfile"]:has([aria-label="🙂"], [aria-label=":slight_smile:"], [aria-label="💜"], [aria-label=":purple_heart:"]) {
-    --fake-profile-effect: url("https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/11.png");
-}
-[class*="userProfile"]:has([aria-label="🙂"], [aria-label=":slight_smile:"], [aria-label="💜"], [aria-label=":purple_heart:"]) [class^="profileEffects"] {
-    display: none;
-}
-[id*="popout"]:has([aria-label="🙂"], [aria-label=":slight_smile:"], [aria-label="💜"], [aria-label=":purple_heart:"]) [class^="profileEffects"] {
-    display: none;
-}
-:not(:has([class*="collectible"])) [class*="root"]:has([aria-label="🙂"], [aria-label=":slight_smile:"], [aria-label="💜"], [aria-label=":purple_heart:"]) [class^="profileEffects"] {
-    display: none;
-}
-/* ^ Smiley Effect*/
-
 /*Mastery*/
 [class*="app-focused"] [class*="userProfile"]:has([aria-label="🛑"], [aria-label=":octagonal_sign:"]) {
     --fake-profile-effect: url("https://raw.githubusercontent.com/DTACat/Collectibles/main/Images/Mastery-Intro-Loop.png");
@@ -143,6 +125,62 @@
     display: none;
 }
 /* ^ Digging*/
+
+
+/*Legacy Smiley Effect*/
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="💜"], [aria-label=":purple_heart:"]) {
+    --fake-profile-effect: url("https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/2.gif");
+}
+[class*="userProfile"]:has([aria-label="💜"], [aria-label=":purple_heart:"]) {
+    --fake-profile-effect: url("https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/1.png");
+}
+[class*="userProfile"]:has([aria-label="💜"], [aria-label=":purple_heart:"]) [class^="profileEffects"] {
+    display: none;
+}
+[id*="popout"]:has([aria-label="💜"], [aria-label=":purple_heart:"]) [class^="profileEffects"] {
+    display: none;
+}
+:not(:has([class*="collectible"])) [class*="root"]:has([aria-label="💜"], [aria-label=":purple_heart:"]) [class^="profileEffects"] {
+    display: none;
+}
+/* ^ Legacy Smiley Effect*/
+
+/*Smiley Effect*/
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🙂"], [aria-label=":slight_smile:"]) {
+    --fake-profile-effect: url("https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/10.png");
+}
+[class*="userProfile"]:has([aria-label="🙂"], [aria-label=":slight_smile:"]) {
+    --fake-profile-effect: url("https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/11.png");
+}
+[class*="userProfile"]:has([aria-label="🙂"], [aria-label=":slight_smile:"]) [class^="profileEffects"] {
+    display: none;
+}
+[id*="popout"]:has([aria-label="🙂"], [aria-label=":slight_smile:"]) [class^="profileEffects"] {
+    display: none;
+}
+:not(:has([class*="collectible"])) [class*="root"]:has([aria-label="🙂"], [aria-label=":slight_smile:"]) [class^="profileEffects"] {
+    display: none;
+}
+/* ^ Smiley Effect*/
+
+/*Orb Array Effect*/
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"]) {
+    --fake-profile-effect: url("https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/17.png");
+}
+[class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"]) {
+    --fake-profile-effect: url("https://cdn.yapper.shop/custom-collectibles/windowkill/profile-effects/18.png");
+}
+[class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"]) [class^="profileEffects"] {
+    display: none;
+}
+[id*="popout"]:has([aria-label="🟣"], [aria-label=":purple_circle:"]) [class^="profileEffects"] {
+    display: none;
+}
+:not(:has([class*="collectible"])) [class*="root"]:has([aria-label="🟣"], [aria-label=":purple_circle:"]) [class^="profileEffects"] {
+    display: none;
+}
+/* ^ Orb Array Effect*/
+
 
 /*None*/
 [class*="userProfile"]:has([aria-label="🚫"], [aria-label=":no_entry_sign:"]) [class^="profileEffects"] {

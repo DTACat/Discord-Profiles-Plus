@@ -17,23 +17,6 @@
 
 /* ^ Saw*/
 
-/*Orb Array*/
-
-[class*="app-focused"] [class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"], [aria-label="💜"], [aria-label=":purple_heart:"]) {
-	--fake-avatar-decoration: url("https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png");
-}
-[class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"], [aria-label="💜"], [aria-label=":purple_heart:"]) {
-	--fake-avatar-decoration: url("https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png");
-}
-[class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"], [aria-label="💜"], [aria-label=":purple_heart:"]) [class*="avatarDecoration"] [class*="avatar"]{
-	object-position: 9999px;
-}
-[class*="userPopout"]:has([aria-label="🟣"], [aria-label=":purple_circle:"], [aria-label="💜"], [aria-label=":purple_heart:"]) [class*="avatarDecoration"]{
-	object-position: 9999px;
-}
-
-/* ^ Orb Array*/
-
 /*Gyoiko Sakura*/
 
 [class*="app-focused"] [class*="userProfile"]:has([aria-label="🌻"], [aria-label=":sunflower:"]) {
@@ -199,6 +182,59 @@
 	object-position: 9999px;
 }
 /* ^ Bucket And Shovel*/
+
+
+/*Legacy Orb Array*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="💜"], [aria-label=":purple_heart:"]) {
+	--fake-avatar-decoration: url("https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/2.png");
+}
+[class*="userProfile"]:has([aria-label="💜"], [aria-label=":purple_heart:"]) {
+	--fake-avatar-decoration: url("https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/1.png");
+}
+[class*="userProfile"]:has([aria-label="💜"], [aria-label=":purple_heart:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="💜"], [aria-label=":purple_heart:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Legacy Orb Array*/
+
+/*Smiley Wave*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🙂"], [aria-label=":slight_smile:"]) {
+	--fake-avatar-decoration: url("https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/8.png");
+}
+[class*="userProfile"]:has([aria-label="🙂"], [aria-label=":slight_smile:"]) {
+	--fake-avatar-decoration: url("https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/7.png");
+}
+[class*="userProfile"]:has([aria-label="🙂"], [aria-label=":slight_smile:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="🙂"], [aria-label=":slight_smile:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Smiley Wave*/
+
+/*Orb Array Screenshot*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"]) {
+	--fake-avatar-decoration: url("https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/6.png");
+}
+[class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"]) {
+	--fake-avatar-decoration: url("https://cdn.yapper.shop/custom-collectibles/windowkill/avatar-decorations/5.png");
+}
+[class*="userProfile"]:has([aria-label="🟣"], [aria-label=":purple_circle:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="🟣"], [aria-label=":purple_circle:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Orb Array Screenshot*/
+
 
 /*None*/
 
