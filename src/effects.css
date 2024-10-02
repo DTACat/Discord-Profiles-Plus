@@ -181,6 +181,24 @@
 }
 /* ^ Orb Array Effect*/
 
+/*Watercolours Effect*/
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🔅"], [aria-label=":low_brightness:"]) {
+    --fake-profile-effect: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-04/watercolors/intro.png");
+}
+[class*="userProfile"]:has([aria-label="🔅"], [aria-label=":low_brightness:"]) {
+    --fake-profile-effect: url("https://cdn.discordapp.com/assets/profile_effects/effects/2024-04-04/watercolors/reduced-motion.png");
+}
+[class*="userProfile"]:has([aria-label="🔅"], [aria-label=":low_brightness:"]) [class^="profileEffects"] {
+    display: none;
+}
+[id*="popout"]:has([aria-label="🔅"], [aria-label=":low_brightness:"]) [class^="profileEffects"] {
+    display: none;
+}
+:not(:has([class*="collectible"])) [class*="root"]:has([aria-label="🔅"], [aria-label=":low_brightness:"]) [class^="profileEffects"] {
+    display: none;
+}
+/* ^ Watercolours Effect*/
+
 
 /*None*/
 [class*="userProfile"]:has([aria-label="🚫"], [aria-label=":no_entry_sign:"]) [class^="profileEffects"] {
