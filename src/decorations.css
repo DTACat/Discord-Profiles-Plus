@@ -235,6 +235,23 @@
 
 /* ^ Orb Array Screenshot*/
 
+/*String Lights 1*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🔆"], [aria-label=":high_brightness:"]) {
+	--fake-avatar-decoration: url("https://cdn.yapper.shop/discord-assets/28.png");
+}
+[class*="userProfile"]:has([aria-label="🔆"], [aria-label=":high_brightness:"]) {
+	--fake-avatar-decoration: url("https://cdn.yapper.shop/discord-assets/29.png");
+}
+[class*="userProfile"]:has([aria-label="🔆"], [aria-label=":high_brightness:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="🔆"], [aria-label=":high_brightness:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ String Lights 1*/
+
 
 /*None*/
 
