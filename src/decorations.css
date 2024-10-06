@@ -252,6 +252,23 @@
 
 /* ^ String Lights 1*/
 
+/*Stardust*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="〽️"], [aria-label=":part_alternation_mark:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_a47890109a231f72dae7b17b27164676.png?size=240&passthrough=true");
+}
+[class*="userProfile"]:has([aria-label="〽️"], [aria-label=":part_alternation_mark:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_a47890109a231f72dae7b17b27164676.png?size=240&passthrough=false");
+}
+[class*="userProfile"]:has([aria-label="〽️"], [aria-label=":part_alternation_mark:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="〽️"], [aria-label=":part_alternation_mark:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Stardust*/
+
 
 /*None*/
 
