@@ -199,6 +199,24 @@
 }
 /* ^ Watercolours Effect*/
 
+/*Mastery*/
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="🔱"], [aria-label=":trident:"]) {
+    --fake-profile-effect: url("https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/intro.png");
+}
+[class*="userProfile"]:has([aria-label="🔱"], [aria-label=":trident:"]) {
+    --fake-profile-effect: url("https://cdn.discordapp.com/assets/profile_effects/effects/b17d139f2e9/ghost-skull/reducedMotion.png");
+}
+[class*="userProfile"]:has([aria-label="🔱"], [aria-label=":trident:"]) [class^="profileEffects"] {
+    display: none;
+}
+[id*="popout"]:has([aria-label="🔱"], [aria-label=":trident:"]) [class^="profileEffects"] {
+    display: none;
+}
+:not(:has([class*="collectible"])) [class*="root"]:has([aria-label="🔱"], [aria-label=":trident:"]) [class^="profileEffects"] {
+    display: none;
+}
+/* ^ Mastery*/
+
 
 /*None*/
 [class*="userProfile"]:has([aria-label="🚫"], [aria-label=":no_entry_sign:"]) [class^="profileEffects"] {
