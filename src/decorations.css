@@ -269,6 +269,23 @@
 
 /* ^ Stardust*/
 
+/*Beamchop*/
+
+[class*="app-focused"] [class*="userProfile"]:has([aria-label="⚜️"], [aria-label=":fleur_de_lis:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_e11ac0d3f2b1301173847b84a1a3268f.png?size=240&passthrough=true");
+}
+[class*="userProfile"]:has([aria-label="⚜️"], [aria-label=":fleur_de_lis:"]) {
+	--fake-avatar-decoration: url("https://cdn.discordapp.com/avatar-decoration-presets/a_e11ac0d3f2b1301173847b84a1a3268f.png?size=240&passthrough=false");
+}
+[class*="userProfile"]:has([aria-label="⚜️"], [aria-label=":fleur_de_lis:"]) [class*="avatarDecoration"] [class*="avatar"]{
+	object-position: 9999px;
+}
+[class*="userPopout"]:has([aria-label="⚜️"], [aria-label=":fleur_de_lis:"]) [class*="avatarDecoration"]{
+	object-position: 9999px;
+}
+
+/* ^ Beamchop*/
+
 
 /*None*/
 
