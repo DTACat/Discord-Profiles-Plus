@@ -1,3 +1,5 @@
+# Profiles Plus is currently broken, we are working on an update to fix this
+
 ![TitleBanner](https://raw.githubusercontent.com/DTACat/Discord-Profiles-Plus/main/Assets/Logo-2024-05-26T131255.883.png)
 
 ### Makes your Discord profile look 100 times better.
